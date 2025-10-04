@@ -39,8 +39,8 @@ memory = {
 
 
 class Config:
-    COHERE_API_KEY = "2Ab373vipaUxWwCXwN2Fgix8AUqJCHStJn0bzMvq"
-    OPENWEATHER_API_KEY = "30d4741c779ba94c470ca1f63045390a"
+    COHERE_API_KEY = "2Ab373vipaUxWwCXwN2*************"
+    OPENWEATHER_API_KEY = "30d4741c779ba94c470ca1*****5390a"
     AVATAR_IMAGE = "avatar.png"
     MIC_ANIMATION = "Bold Beats.gif"
     TIMEZONE = "Asia/Kolkota"
